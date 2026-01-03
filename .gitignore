@@ -78,3 +78,6 @@ saved_models/
 # *.csv
 # *.tsv
 # *.json
+
+# Internal documentation
+GITHUB_PUSH_INSTRUCTIONS.md
